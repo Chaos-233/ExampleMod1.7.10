@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.chaos233.tinkerslegacy;
 
 public class ClientProxy extends CommonProxy {
 
